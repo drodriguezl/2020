@@ -7,7 +7,7 @@
         
         
         {
-            "name": "(gdb) Iniciar",
+            "name": "Lanzar",
             "type": "cppdbg",
             "request": "launch",
             "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
