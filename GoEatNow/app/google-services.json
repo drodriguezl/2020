@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "387978053175",
+    "firebase_url": "https://goeatnow-577aa.firebaseio.com",
+    "project_id": "goeatnow-577aa",
+    "storage_bucket": "goeatnow-577aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387978053175:android:6e3f3d609c15c7e825a1b2",
+        "android_client_info": {
+          "package_name": "com.example.goeatnow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387978053175-7qv8d3ig8dndujhpmus8ivs707fi6e07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJFONQKP9UiiMeXtWG5zKImtbgkcTfyK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387978053175-7qv8d3ig8dndujhpmus8ivs707fi6e07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
